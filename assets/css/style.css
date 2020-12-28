@@ -1,0 +1,131 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.fondo{
+
+    background-color: gray;
+   
+}
+
+.colot-text{
+    color: black;
+}
+
+.banner{
+    background-image: url(../img/flores-rosas.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 20vh;
+    width: 100vw;
+    z-index: 0;
+
+}
+
+.texto_banner{
+    z-index: 1;
+
+}
+
+.fotoperfil{
+    height:300px;
+    width: 250px;;
+
+  
+}
+
+.info_personal{
+    display: inline-block;
+    background-position: center;
+
+
+}
+
+.articulo{
+    
+    width: 40%;
+    padding: 1%;
+    display: inline-block;
+    text-align: justify;
+
+  
+  
+
+}
+
+.personal-seccion{
+
+    background-position: center;
+
+}
+
+.iconos{
+    width: 100%;
+
+}
+
+.icono{
+    width: 33%;
+    padding: 0;
+    display: inline-block;
+  
+}
+
+
+
+
+.desafios{
+    width: 33%;
+    padding: 0;
+    display: inline-block;
+    z-index: 0;
+
+}
+
+.contiene-tarjeta{
+
+    display: inline;
+    background-position: center;
+    width: 100%;
+    margin-top: auto;
+    border: black;
+   
+
+}
+
+.texto-desliza{
+    color: black;
+}
+
+.pie{
+    width: 100%;
+    background-position: center;
+
+}
+
+.final{
+
+    width: 33%;
+    padding: 0;
+    display: inline-block;
+   
+}
+
+#pie_pagina{
+
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
